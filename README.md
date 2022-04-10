@@ -1,4 +1,8 @@
 # TikTok Checker
+<img src="https://img.shields.io/github/issues/7z-henry/tiktok-checker" alt="open_errors"></a> 
+<img src="https://img.shields.io/github/watchers/7z-henry/tiktok-checker?style=social" alt="watchers"></a> 
+<img src="https://img.shields.io/github/stars/7z-henry?style=social" alt="stars"></a> 
+<img src="https://img.shields.io/github/forks/7z-henry/tiktok-checker?style=social" alt="open_errors"></a> 
 
 A Tool that checks if TikTok 4l or 4c are still available.\
 It will send all available usernames to a Webhook on your Discord Server.
